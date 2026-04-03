@@ -9,6 +9,7 @@
 namespace fs = std::filesystem;
 
 class Embed {
+
 private:
 	Saver saver;
 
